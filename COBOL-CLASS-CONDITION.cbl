@@ -4,7 +4,7 @@
       * Purpose: Demonstrate COBOL's ability to discern INT values from
       * characters. Also demonstrate COBOL's "inline" perform.UPDATE 11/
       * 10/2022. For some reason I am struggling with the PERFORM syntax
-      * Will work on this week.
+      * Will work on this week. UPDATE 12/17/2022 this is a holdover, correct usage of PERFORM syntax demonstrated in later code.
       * Tectonics: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
